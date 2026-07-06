@@ -4,7 +4,7 @@
 DOI:[10.12771/emj.2026.01221](10.12771/emj.2026.01221)
 <br><br>
 
-Supplementary materials (Supplement 1, Supplement 2, Supplement 3, and Supplement 4) and Dataset 1 for the paper are uploaded in this folder.
+Supplementary materials (Supplement 1, Supplement 2, Supplement 3, and Supplement 4) and Dataset 1 for the paper are uploaded in this Github Repository.
 <br><br>
 
 **Data availability**
