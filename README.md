@@ -1,19 +1,17 @@
 # Clinical-phenotypes-and-clustering-patterns-of-human-toxocariasis-in-PubMed-case-reports
-Clinical phenotypes and clustering patterns of human toxocariasis in PubMed case reports: an Antigravity-assisted systematic scoping review
-
-
+**Clinical phenotypes and clustering patterns of human toxocariasis in PubMed case reports: an Antigravity-assisted systematic scoping review**
+DOI:[Link Text](10.12771/emj.2026.01221)
+<br>
 
 Supplementary materials (Supplement 1, Supplement 2, Supplement 3, and Supplement 4) and Dataset 1 for the paper are uploaded in this folder.
+<br>
 
-
-
-Data availability
+**Data availability**
 
 Dataset 1. Data from the final 139 toxocariasis articles used for analysis.
+<br>
 
-
-
-Supplementary materials
+**Supplementary materials**
 
 Supplement 1. Table of the toxocariasis case reports indexed in NCBI PubMed databases (2005-2025) containing the following categories: PMID, Title, Patient Age, Sex, Chief Complaint, Associated Symptoms, Eosinophil Count, Final Diagnosis, Raw Abstract, Organ Involvement, Symptoms (MESH), and Inclusion Status.
 
